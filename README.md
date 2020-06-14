@@ -1,1 +1,1 @@
-# sample-nodejs-mongodb-mongoose-todo-list
+# sample-nodejs-ejs-mongodb-mongoose-todo-list
